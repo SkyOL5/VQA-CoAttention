@@ -1,0 +1,5 @@
+
+This folder provides external tools for supporting Co-Attention code.
+
+In ./googlenet folder, you can download a pretrained model or train a new model.
+In ./vqa folder, you can retrieve the VQA dataset.
